@@ -11,15 +11,13 @@ The model is trained using **historical IPL match data** and deployed using **St
 # 🚀 Live Demo
 
 🔗 **Try the App Here:**  
-https://your-app-link.streamlit.app
+https://ipl-winning-team-prediction-qzdpswxzsa25jgzpzddpp8.streamlit.app/
 
 ---
 
 # 📸 Application Screenshot
 
-![IPL Predictor UI](screenshot.png)
 
-*(Add your screenshot image inside the repository and name it `screenshot.png`)*
 
 ---
 
