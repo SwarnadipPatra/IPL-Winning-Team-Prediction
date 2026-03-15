@@ -62,12 +62,11 @@ IPL-Winning-Team-Prediction
 │
 ├── app.py
 ├── pipe.pkl
-├── IPL Winning Team Prediction.ipynb
 ├── matches.csv
 ├── deliveries.zip
+├── requirements.txt
 ├── screenshot.png
 └── README.md
-
 
 ### File Description
 
