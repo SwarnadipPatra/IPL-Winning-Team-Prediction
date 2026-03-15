@@ -18,7 +18,6 @@ https://ipl-winning-team-prediction-qzdpswxzsa25jgzpzddpp8.streamlit.app/
 # 📸 Application Screenshot
 
 
-
 ---
 
 # ✨ Features
