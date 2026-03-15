@@ -56,8 +56,9 @@ and loaded in the Streamlit application for prediction.
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
+```
 IPL-Winning-Team-Prediction
 │
 ├── app.py
@@ -67,7 +68,7 @@ IPL-Winning-Team-Prediction
 ├── requirements.txt
 ├── screenshot.png
 └── README.md
-
+```
 ### File Description
 
 - **app.py** – Streamlit web application for prediction  
